@@ -4,3 +4,7 @@
 *.tfvars
 .env
 kubeconfig*
+
+.handoff/
+CLAUDE.md
+AGENTS.md
